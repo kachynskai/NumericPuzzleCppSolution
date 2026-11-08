@@ -2,4 +2,6 @@
 .vscode/
 puzzle
 puzzle_debug
+answer.txt
+result.txt
 *.dSYM/
